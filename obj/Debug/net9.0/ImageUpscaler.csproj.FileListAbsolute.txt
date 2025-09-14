@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\ImageUpscaler\bin\Debug\net9.0\ImageUpscaler.exe
+C:\Users\Administrator\Desktop\ImageUpscaler\bin\Debug\net9.0\ImageUpscaler.deps.json
+C:\Users\Administrator\Desktop\ImageUpscaler\bin\Debug\net9.0\ImageUpscaler.runtimeconfig.json
+C:\Users\Administrator\Desktop\ImageUpscaler\bin\Debug\net9.0\ImageUpscaler.dll
+C:\Users\Administrator\Desktop\ImageUpscaler\bin\Debug\net9.0\ImageUpscaler.pdb
+C:\Users\Administrator\Desktop\ImageUpscaler\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\ImageUpscaler.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\ImageUpscaler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\ImageUpscaler.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\ImageUpscaler.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\ImageUpscaler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\ImageUps.A0F454C7.Up2Date
+C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\ImageUpscaler.dll
+C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\refint\ImageUpscaler.dll
+C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\ImageUpscaler.pdb
+C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\ImageUpscaler.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\ref\ImageUpscaler.dll
