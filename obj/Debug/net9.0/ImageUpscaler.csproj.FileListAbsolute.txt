@@ -15,3 +15,4 @@ C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\refint\ImageUpscal
 C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\ImageUpscaler.pdb
 C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\ImageUpscaler.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\ref\ImageUpscaler.dll
+C:\Users\Administrator\Desktop\ImageUpscaler\obj\Debug\net9.0\ImageUpscaler.sourcelink.json
