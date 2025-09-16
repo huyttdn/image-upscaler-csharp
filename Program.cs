@@ -3,6 +3,6 @@
     static async Task Main(string[] args)
     {
         var processor = new ImageProcessor();
-        await processor.ProcessImages("clients.txt");
+        await processor.ProcessImages("client_ids");
     }
 }

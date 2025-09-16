@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImageUpscaler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a065a567a06c7128424d1ab9c3d96249d5c097c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d02a6f731208214d451926ae0e19c110f3f8f43")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImageUpscaler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImageUpscaler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
